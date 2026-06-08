@@ -192,12 +192,6 @@ function Links() {
       link: "https://brickbot.ro/donate",
     },
     {
-      title: "Call for volunteers!",
-      displayLink: "brickbot.ro/apply",
-      highlighted: false,
-      link: "https://brickbot.ro/apply",
-    },
-    {
       title: "Redirect 3.5% of your income tax to help BrickBot!",
       displayLink: "brickbot.ro/formular230",
       highlighted: false,
